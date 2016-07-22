@@ -447,6 +447,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ## Data Science
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
 * [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
+* [Ultimate Guide to Data Science Interviews] (https://www.springboard.com/resources/data-scientist-interview-guide)
 
 ### License
 
